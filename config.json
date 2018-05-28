@@ -20,4 +20,9 @@
             "variant": -1
         }
     ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
 }
