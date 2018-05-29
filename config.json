@@ -9,7 +9,7 @@
     "retry-pause": 5,
     "syslog": false,
     "opencl-platform": 0,
-    "threads": null,
+    "threads": 2,
     "pools": [
         {
             "url": "pool.minexmr.com:5555",
